@@ -1,0 +1,25 @@
+{
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
+    {
+      "id": 1,
+      "tittle": "Angular",
+      "description": "Framework of JavaScript"
+    },
+    {
+      "id": 2,
+      "tittle": "ASP.NET core for Web Apps",
+      "description": "Web Development with ASP"
+    },
+    {
+      "id": 3,
+      "tittle": "SpringBoot Developer",
+      "description": "Framework of Java"
+    }
+
+  ],
+  "enrollments": [],
+  "progress-record-items": []
+}
